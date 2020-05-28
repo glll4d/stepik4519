@@ -27,9 +27,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c06d9b26-a1b5-447d-840a-a1a269efc8ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/2_3_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2_3_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_3_4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_3_4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_3_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_3_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_3_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_3_4/234.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_3_4/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_3_4/Requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/233.py" beforeDir="false" afterPath="$PROJECT_DIR$/233.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +63,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
@@ -123,7 +130,7 @@
       <workItem from="1590622370862" duration="1110000" />
       <workItem from="1590629610029" duration="883000" />
       <workItem from="1590677663403" duration="120000" />
-      <workItem from="1590687912131" duration="1458000" />
+      <workItem from="1590687912131" duration="3082000" />
     </task>
     <servers />
   </component>
@@ -155,22 +162,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590689493252">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1590692909817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590689493252" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590689493252">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590692909817" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590692920542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590689493252" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590689493252">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590692920542" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590692920542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590689493252" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590689493252">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590692920542" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590692920541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590689493252" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590692920541" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590692920542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590692920542" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2_3_3$233.coverage" NAME="233 Coverage Results" MODIFIED="1590689493246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
